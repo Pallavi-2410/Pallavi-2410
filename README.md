@@ -4,7 +4,7 @@
 
 Once an **HR Consultant**, now a **Frontend Developer** with a passion for crafting beautiful, functional, and efficient web applications. My journey from **recruiting talent** to **writing code** has been fueled by my love for problem-solving, creativity, and continuous learning.  
 
-Currently, I am **immersed in a 21-week full-time Frontend developer program at Masai School**, sharpening my skills in **HTML, CSS, JavaScript, React, Redux**.  
+Currently, I am **immersed in a 21-week full-time Frontend developer program at Masai School**, sharpening my skills in **HTML, CSS, JavaScript, React, Redux and Chakra UI**.  
 
 ---
 
@@ -17,8 +17,8 @@ Currently, I am **immersed in a 21-week full-time Frontend developer program at 
 ---
 
 ## 🛠 **Tech Stack & Tools**  
-🔹 **Languages:** HTML | CSS | JavaScript  
-🔹 **Frontend:** React | Redux
+🔹 **Languages:** HTML | CSS | JavaScript
+🔹 **Frontend:** React | Redux | Chakra UI
 🔹 **Version Control:** Git | GitHub  
 
 ---
