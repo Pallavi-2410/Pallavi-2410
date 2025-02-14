@@ -35,7 +35,7 @@ Currently, I am **immersed in a 21-week full-time Frontend developer program at 
 🔗 **LinkedIn:** https://www.linkedin.com/in/pallavi-patidar-8466a7273/
 💻 **GitHub:** https://github.com/Pallavi-2410  
 🌐 **Portfolio:** [your-portfolio-link]  
-📄 **Resume:** https://drive.google.com/file/d/1ohOtm0ZWARAntCW1To3Yppq3MIyCA_kM/view?usp=sharing
+📄 **Resume:** https://drive.google.com/file/d/1KpG9w29NN_C6AP0F3ZoH80-vXnHBQHq0/view?usp=sharing
 
 ---
 
