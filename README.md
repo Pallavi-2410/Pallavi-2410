@@ -1,10 +1,15 @@
 # 👋 Hey there, I'm Pallavi Patidar!  
 
-🚀 **HR to Frontend Developer | Aspiring Full-Stack Developer**  
+🚀 **Frontend Developer | Aspiring Full-Stack Developer**
 
-Once an **HR Consultant**, now a **Frontend Developer** with a passion for crafting beautiful, functional, and efficient web applications. My journey from **recruiting talent** to **writing code** has been fueled by my love for problem-solving, creativity, and continuous learning.  
+I’m a Frontend Developer with **2 years of experience**, passionate about building responsive, user-friendly, and dynamic web applications. I specialize in HTML, CSS, JavaScript, React, Redux, and Chakra UI, crafting seamless and engaging user experiences.
 
-Currently, I am **immersed in a 21-week full-time Frontend developer program at Masai School**, sharpening my skills in **HTML, CSS, JavaScript, React, Redux and Chakra UI**.  
+Currently, I am expanding my expertise in full-stack development, continuously learning and experimenting with new technologies to enhance my skills.
+
+🔹 **Tech Stack**: HTML | CSS | JavaScript | React | Redux | Chakra UI
+🔹 **Currently Learning**: Backend Development & Full-Stack Technologies
+
+Let's connect and build something amazing together! 🚀
 
 ---
 
