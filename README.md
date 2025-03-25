@@ -29,7 +29,7 @@ Let's connect and build something amazing together! 🚀
 ---
 
 ## 🌟 **A Bit More About Me**  
-🎯 **From HR to Tech:** My past experience in HR has honed my **communication, analytical, and problem-solving skills**, which I now bring to web development.  
+🎯 **Bridging Creativity & Problem-Solving**: My journey in web development has sharpened my communication, analytical, and problem-solving skills, enabling me to build intuitive and user-friendly applications. I thrive on solving complex challenges and transforming ideas into seamless digital experiences.
 🎨 **Love for Design:** When not coding, you'll find me sketching portraits, bringing creativity to life in different forms.  
 🏏 **Cricket Enthusiast:** I enjoy watching cricket—especially when **India is playing!**  
 
@@ -37,7 +37,7 @@ Let's connect and build something amazing together! 🚀
 
 ## 📬 **Let’s Connect!**  
 📩 **Email:** patel.pallavi1819@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/pallavi-patidar-8466a7273/
+🔗 **LinkedIn:** https://www.linkedin.com/in/pallavi-patidar-076b14223/
 💻 **GitHub:** https://github.com/Pallavi-2410  
 🌐 **Portfolio:** https://pallavi-2410.github.io/digitalPortfolio/ 
 📄 **Resume:** https://drive.google.com/file/d/1SKg1l_ifAVk22k4edipNbIXcCVbMDY3N/view?usp=sharing
